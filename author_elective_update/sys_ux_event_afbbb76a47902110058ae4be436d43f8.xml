@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="DELETE">
+        <description/>
+        <event_name>TEST</event_name>
+        <interfaces/>
+        <label>test</label>
+        <props>[{"name":"propName","fieldType":"string","label":"Client State Parameter Name","interfaceApiName":"","typeMetadata":{"choices":[],"schema":{"type":"string"},"translatable":false},"mandatory":false,"readOnly":false},{"name":"value","fieldType":"string","label":"New Value","interfaceApiName":"","typeMetadata":{"choices":[],"schema":{"type":"string"},"translatable":false},"mandatory":false,"readOnly":false}]</props>
+        <required_translations>[ {
+  "message" : "Client State Parameter Name",
+  "comment" : ""
+}, {
+  "message" : "New Value",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-13 11:05:46</sys_created_on>
+        <sys_id>afbbb76a47902110058ae4be436d43f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_event_afbbb76a47902110058ae4be436d43f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-13 11:05:46</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="DELETE" query="documentkey=afbbb76a47902110058ae4be436d43f8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>7b1b5ac1db2200542f68c5970596198b</instance_id>
+        <instance_name>dev97449</instance_name>
+        <name>sys_ux_event_afbbb76a47902110058ae4be436d43f8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event"><sys_ux_event action="INSERT_OR_UPDATE"><description/><event_name>TEST</event_name><interfaces/><label>test</label><props>[{"name":"propName","fieldType":"string","label":"Client State Parameter Name","interfaceApiName":"","typeMetadata":{"choices":[],"schema":{"type":"string"},"translatable":false},"mandatory":false,"readOnly":false},{"name":"value","fieldType":"string","label":"New Value","interfaceApiName":"","typeMetadata":{"choices":[],"schema":{"type":"string"},"translatable":false},"mandatory":false,"readOnly":false}]</props><required_translations>[ {
+  "message" : "Client State Parameter Name",
+  "comment" : ""
+}, {
+  "message" : "New Value",
+  "comment" : ""
+} ]</required_translations><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_event</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-13 11:05:46</sys_created_on><sys_id>afbbb76a47902110058ae4be436d43f8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>test</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_event_afbbb76a47902110058ae4be436d43f8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-13 11:05:46</sys_updated_on></sys_ux_event><sys_translated_text action="delete_multiple" query="documentkey=afbbb76a47902110058ae4be436d43f8"/></record_update>]]></payload>
+        <payload_hash>1073407450</payload_hash>
+        <record_name>test</record_name>
+        <reverted_from/>
+        <source>543cfd8a47261110058ae4be436d43ef</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-13 11:05:46</sys_created_on>
+        <sys_id>23bbf7ea47902110058ae4be436d43f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185aacea18e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-13 11:05:46</sys_updated_on>
+        <type>UX Event</type>
+        <update_guid>2bbbf7eac290211018a95638f99dc0f7</update_guid>
+        <update_guid_history>2bbbf7eac290211018a95638f99dc0f7:1073407450</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-13 11:13:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_event">sys_ux_event</sys_db_object>
+        <sys_id>11da7d67115941b6822e34d371b62c91</sys_id>
+        <sys_metadata>afbbb76a47902110058ae4be436d43f8</sys_metadata>
+        <sys_name>test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_event_afbbb76a47902110058ae4be436d43f8</sys_update_name>
+        <sys_update_version display_value="sys_ux_event_afbbb76a47902110058ae4be436d43f8">23bbf7ea47902110058ae4be436d43f8</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
